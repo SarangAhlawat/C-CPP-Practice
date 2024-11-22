@@ -1,2 +1,2 @@
-# C-Practice
+# C-CPP-Practice
 Just for practice
